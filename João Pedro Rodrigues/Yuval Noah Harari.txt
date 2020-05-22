@@ -1,1 +1,6 @@
-"Se e quando programas de computador atingirem uma inteligência sobre-humana e um poder jamais visto, deveremos valorizar esses programas mais do que valorizamos os humanos? Seria aceitável, por exemplo, que uma inteligência artificial explorasse os humanos e até os matasse para contemplar as necessidades de seus próprios desejos? Se a resposta é negativa, a despeito da inteligência e do poder superiores, por que é ético que humanos explorem e matem porcos?"
+"Se e quando programas de computador atingirem uma inteligência sobre-humana
+ e um poder jamais visto, deveremos valorizar esses programas mais do que
+ valorizamos os humanos? Seria aceitável, por exemplo, que uma inteligência
+ artificial explorasse os humanos e até os matasse para contemplar as necessidades
+ de seus próprios desejos? Se a resposta é negativa, a despeito da inteligência e
+ do poder superiores, por que é ético que humanos explorem e matem porcos?"
