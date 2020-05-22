@@ -1,5 +1,3 @@
-
-
 # Primeiro desafio
 
 Olá membros do CS! 
@@ -71,10 +69,11 @@ Agora você irá contribuir para o projeto!
 A ideia agora é que você faça sua contribuição e dê um commit no projeto
 
 1. digite "git clone https://github.com/ieee-saocarlos/desafios-cs.git" no terminal ou no git bash. Agora o seu computador tem uma cópia do repositório dos desafios.
-2. Dentro desse repositório remoto crie uma pasta com seu nome e um sobrenome.
-3. Agora crie um arquivo .txt com o nome de uma figura que você admira.
-4. Dentro do .txt escreva uma frase dessa pessoa
-5. Voltando ao git bash ou ao terminal setado na pasta digite os seguintes comandos:
+2. Essa pasta clonada apareceu dentro da pasta em que você usou o "git bash", então vá para essa nova pasta chamada "desafios-cs" e use o "git bash" nela ou então use o terminal para avançar para essa pasta.
+3. Dentro desse repositório remoto crie uma pasta com seu nome e um sobrenome.
+4. Agora crie um arquivo .txt com o nome de uma figura que você admira.
+5. Dentro do .txt escreva uma frase dessa pessoa
+6. Voltando ao git bash ou ao terminal setado na pasta digite os seguintes comandos:
     * git add .
     * git commit -m "Adicionada uma frase de {figura}"
     * "git pull" para atualizar seu repositório local antes de enviar
