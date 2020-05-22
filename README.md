@@ -76,7 +76,7 @@ A ideia agora é que você faça sua contribuição e dê um commit no projeto
 4. Dentro do .txt escreva uma frase dessa pessoa
 5. Voltando ao git bash ou ao terminal setado na pasta digite os seguintes comandos:
     * git add .
-    * git commit -m "Adicionada a contribuição de {Seu nome}"
+    * git commit -m "Adicionada uma frase de {figura}"
     * "git pull" para atualizar seu repositório local antes de enviar
     * "git push -u origin master"
 

@@ -1,4 +1,3 @@
-
 ## Github + Git Básico
 
 Antes mesmo de começar a programar, precisamos de um meio de todos enviarem seus códigos de forma eficiente e integrada para que possa ser feito o acompanhamento. Por isso, a primeira ferramenta que será apresentada é o famoso [GitHub](http://github.com). O que é o GitHub?
