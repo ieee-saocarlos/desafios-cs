@@ -51,7 +51,10 @@ No entanto, o que essas ferramentas fazem é basicamente digitar os comandos no 
     * ssh-keygen -o -t rsa -C "seu_email@email.com"
 6. Para ver a sua chave:
     * (Windows) notepad ~/.ssh/id_rsa.pub
-    * (Linux) cat ~/.ssh/id_rsa.pub
+    * (Linux) 
+	* eval "$(ssh-agent -s)"
+	* ssh-add ~/.ssh/id_rsa
+	* cat ~/.ssh/id_rsa.pub
     * Copie essa chave. Dica: ctrl + a , ctrl + c.
 7. Logue no GitHub, clique no icone do seu perfil e vá em:
    * "Settings" > "SSH and GPG keys" > "new SSH key".
