@@ -4,7 +4,7 @@ Os números binários são uma outra forma de representar os números. Esse sist
 
 ## Representando números binários
 
-Provavelmente você conhece bem os números na base decimal, cada dígito representa uma potência de dez. Dessa forma, o número 1234 possui o valor representado por $1 \cdot 10^{3} + 2 \cdot 10^{2} + 3 \cdot 10^{1} + 4 \cdot 10^{0} $. Da mesma forma, o binário 1001 equivale a $1 \cdot 2^{3} + 0 \cdot 2^{2} + 0 \cdot 2^{1} + 1 \cdot 2^{0} = 9$.
+Provavelmente você conhece bem os números na base decimal, cada dígito representa uma potência de dez. Dessa forma, o número 1234 possui o valor representado por 1 x 10^3 + 2 x 10^2 + 3 x 10^1 + 4 x 10^0. Da mesma forma, o binário 1001 equivale a 1 x 2^3 + 0 x 2^2+ 0 x 2^1 + 1 x 2^0 = 9.
 
 ## Convertendo números decimais em binários
 
