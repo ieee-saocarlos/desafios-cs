@@ -68,7 +68,7 @@ A resposta deve vir da seguinte forma:
 Aprenda sobre [tipos de valores](types.md) e [declaração de variáveis](variables.md)
 
 ## Terceira tarefa
-O vendedor ficou muito feliz com a resposta que você deu a ele, mas ele não quer depender de você toda vez que precisar contar as unidades. Então ele pediu para você fazer um programa em que ele possa digitar a quantidade de conjuntos de cada produto e receber a quantidade de cada um. 
+O vendedor ficou muito feliz com a resposta que você deu a ele, mas ele não quer depender de você toda vez que precisar contar as unidades. Então ele pediu para você fazer um programa em que ele possa digitar apenas a quantidade de conjuntos e receber a quantidade de unidades de cada produto. 
 
 **Em troca ele te dará um papel amassado que encontrou no lixo : )**
 
@@ -93,3 +93,4 @@ Obs para a quarta tarefa:
 1. Colocar o helloworld.py dentro da sua pasta do repositório utilizando o Git.
 2. Colocar o programa da terceira tarefa na sua pasta do repositório.
 3. Termine a quarta tarefa.
+4. (Opcional) Colocar o código da quarta tarefa no repositório.
