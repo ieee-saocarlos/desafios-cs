@@ -1,7 +1,5 @@
 # Desafio 2: Segunda Tarefa
 
-print("Calculadora de unidades dos produtos.\n")
-
 #Unidades no conjunto usando dicionário
 unidades = {
 	'leite': 12,
@@ -12,14 +10,14 @@ unidades = {
 	}
 
 quantidades = {
-	'leite': unidades['leite']*int(input("Digite quantos conjuntos de leite.\n")),
-	'ovos': unidades['ovo']*int(input("Digite quantos conjuntos de ovo.\n")),
-	'prendedores': unidades['prendedores']*int(input("Digite quantos conjuntos de prendedores.\n")), 
-	'barras de sabão': unidades['sabao']*int(input("Digite quantos conjuntos de sabão.\n")), 
-	'copinhos de iogurte': unidades['iogurte']*int(input("Digite quantos conjuntos de iogurte.\n"))
+	'leite': unidades['leite']*78,
+	'ovos': unidades['ovo']*68,
+	'prendedores': unidades['prendedores']*21, 
+	'barras de sabão': unidades['sabao']*13, 
+	'copinhos de iogurte': unidades['iogurte']*40
 	}
 
-print("\nQuantidade de unidades de produtos:")
+print("Quantidade de unidades de produtos:")
 for produto in quantidades:
 	print(produto,":",quantidades[produto])
 
