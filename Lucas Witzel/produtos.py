@@ -1,7 +1,12 @@
+print("Digite a quantidade de conjuntos de leite:")
 leite=int(input())
+print("Digite a quantidade de conjuntos de ovos:")
 ovo=int(input())
+print("Digite a quantidade de conjuntos de prendedores:")
 prendedores=int(input())
+print("Digite a quantidade de conjuntos de sabao:")
 sabao=int(input())
+print("Digite a quantidade de conjuntos de iogurte:")
 iogurte=int(input())
 
 l = 12 * leite
