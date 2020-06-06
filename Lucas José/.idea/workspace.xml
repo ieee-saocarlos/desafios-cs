@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c16a2dca-ff83-45fc-991c-032510a53808" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/produtos.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cuokfOqjJvRt0uRiOKicdxj1bY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.produtos">
+    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lucas José" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="produtos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lucas José" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/produtos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.produtos" />
+        <item itemvalue="Python.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c16a2dca-ff83-45fc-991c-032510a53808" name="Default Changelist" comment="" />
+      <created>1591387983554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591387983554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="143" width="666" height="826" key="#HelloWorld" timestamp="1591403155079">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="655" y="143" width="666" height="826" key="#HelloWorld/67.27.1853.1053@67.27.1853.1053" timestamp="1591403155079" />
+    <state x="593" y="241" width="800" height="736" key="#Intentions" timestamp="1591403871090">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="593" y="241" width="800" height="736" key="#Intentions/67.27.1853.1053@67.27.1853.1053" timestamp="1591403871090" />
+    <state x="828" y="298" width="309" height="523" key="EnvironmentVariablesDialog" timestamp="1591403147231">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="828" y="298" width="309" height="523" key="EnvironmentVariablesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1591403147231" />
+    <state width="1830" height="275" key="GridCell.Tab.0.bottom" timestamp="1591406137090">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1591406137090" />
+    <state width="1830" height="275" key="GridCell.Tab.0.center" timestamp="1591406137089">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1591406137089" />
+    <state width="1830" height="275" key="GridCell.Tab.0.left" timestamp="1591406137089">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1591406137089" />
+    <state width="1830" height="275" key="GridCell.Tab.0.right" timestamp="1591406137090">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1591406137090" />
+  </component>
+</project>
