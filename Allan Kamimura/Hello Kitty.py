@@ -6,4 +6,4 @@ while restart:
             print("Hello Kitty!")
         else:
             print("Hello World!")
-            break
+    break
