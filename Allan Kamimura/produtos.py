@@ -1,14 +1,12 @@
 import time
 print("oizinho\n")
 
-
 Leite = int(input("leIte?"))
 Ovo = int(input("OvO?"))
 Prendedor = int(input("pendedor?"))
 Barras_de_Sabão = int(input("barra de sabão?"))
 Copinho_de_Iogurte = int(input("iogurtes?"))
-
-
+print("")
 i = 1
 while i < 12:
         print("leite:", Leite*i)
@@ -29,41 +27,40 @@ m=1
 while m < 6:
     print("copinhos de iogurte:", Copinho_de_Iogurte*m)
     m += 1
-    
-    
-print("fazendo contas [          ] loading 0%")
+print("")
+print("fazendo contas   0%  [          ]")
 time.sleep(0.4)
-print("fazendo contas [#         ] loading 10%")
+print("fazendo contas   10% [#         ]")
 time.sleep(0.5)
-print("fazendo contas [##        ] loading 20%")
+print("fazendo contas   20% [##        ]")
 time.sleep(0.6)
-print("fazendo contas [###       ] loading 30%")
+print("fazendo contas   30% [###       ]")
 time.sleep(0.7)
-print("fazendo contas [####      ] loading 40%")
+print("fazendo contas   40% [####      ]")
 time.sleep(0.8)
-print("fazendo contas [###       ] loading 30%")
+print("fazendo contas   30% [###       ]")
 time.sleep(0.7)
-print("fazendo contas [####      ] loading 40%")
+print("fazendo contas   40% [####      ]")
 time.sleep(0.8)
-print("fazendo contas [#####     ] loading 50%")
+print("fazendo contas   50% [#####     ]")
 time.sleep(0.9)
-print("fazendo contas [#####     ] loading 50%")
+print("fazendo contas   50% [#####     ]")
 time.sleep(0.9)
-print("fazendo contas [######    ] loading 60%")
+print("fazendo contas   60% [######    ]")
 time.sleep(1.0)
-print("fazendo contas [#######   ] loading 70%")
+print("fazendo contas   70% [#######   ]")
 time.sleep(1.1)
-print("fazendo contas [########  ] loading 80%")
+print("fazendo contas   80% [########  ]")
 time.sleep(1.2)
-print("fazendo contas [######### ] loading 90%")
+print("fazendo contas   90% [######### ]")
 time.sleep(1.3)
-print("fazendo contas [########## ] loading 95%")
+print("fazendo contas   95% [########## ]")
 time.sleep(1.4)
-print("fazendo contas [########### ] loading 99%")
+print("fazendo contas   99% [########### ]")
 time.sleep(1.5)
-print("fazendo contas [######### ] loading 90%")
+print("fazendo contas   90% [######### ]")
 time.sleep(2.5)
-print("fazendo contas [##########] loading 100%\n")
+print("fazendo contas 100%  [##########]\n")
 time.sleep(1.2)
 print("perdi a conta, vc pode digitar tudo denovo?\n")
 Leite2 = int(input("leIte?"))
@@ -71,8 +68,15 @@ Ovo2 = int(input("OvO?"))
 Prendedor2 = int(input("pendedor?"))
 Barras_de_Sabão2 = int(input("barra de sabão?"))
 Copinho_de_Iogurte2 = int(input("iogurtes?"))
-
-
-print("Há",Leite*i,"caixas de leite,", Ovo*j,"ovos,",Prendedor*k,"prendedores,",Barras_de_Sabão*l,"barras de sabão,",Copinho_de_Iogurte*m,"copinhos de iogurte")
+print("")
+print("Há \
+{0} caixas de leite,\
+{1} ovos, \
+{2} prendedores, \
+{3} barras de sabão e \
+{4} copinhos de iogurte."
+      .format(Leite*i, Ovo*j, Prendedor*k, Barras_de_Sabão*l, Copinho_de_Iogurte*m))
+print("")
 input("Aperte Enter para sair")
+
 
