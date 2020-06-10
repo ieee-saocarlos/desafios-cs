@@ -1,8 +1,8 @@
-L = int (input ("Quantidade de conjuntos: "))
-O = int (input ("Quantidade de conjuntos: "))
-P = int (input ("Quantidade de conjuntos: "))
-S = int (input ("Quantidade de conjuntos: "))
-I = int (input ("Quantidade de conjuntos: "))
+L = int (input ("Quantidade de conjuntos de leite: "))
+O = int (input ("Quantidade de conjuntos de ovo: "))
+P = int (input ("Quantidade de conjuntos de prendedor: "))
+S = int (input ("Quantidade de conjuntos de sabão: "))
+I = int (input ("Quantidade de conjuntos de iogurte: "))
 
 L = 12*L
 O = 12*O
