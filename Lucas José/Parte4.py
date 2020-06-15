@@ -24,7 +24,7 @@ while flag == 1 :
     #Traducao pelo codigo ascii
     for i in range(len(ASCII)):
         mensagem.append(chr(int(ASCII[i])))
-    print(mensagem)
+    print("".join(mensagem))
 
     if input("Digite END para encerrar o programa: ") == "END" or "End" or "end":
         flag = 0
