@@ -1,0 +1,6 @@
+leite=int(input('Digite a quantidade de conjuntos de leite: '))
+ovo=int(input('Digite a quantidade de conjuntos de ovos: '))
+prendedor=int(input('Digite a quantidade de conjuntos de prendedores: '))
+sabao=int(input('Digite a quantidade de conjuntos de sabão: '))
+iogurte=int(input('Digite a quantidade de conjuntos de iogurte: '))
+print(' Há {} caixas de leite, {} ovos, {} prendedores, {} barras de sabão e {} copinhos de iogurte'.format(leite*12,ovo*12,prendedor*24,sabao*5,iogurte*6))
